@@ -29,7 +29,7 @@ using namespace std;
 typedef CGAL::Exact_circular_kernel_2		Circ2;
 typedef CGAL::Point_2<Circ2>				Point_2;
 
-
+// lala
 double maxeps (utility &obj, double start_val, double error) {
 
 	double eps = start_val;
